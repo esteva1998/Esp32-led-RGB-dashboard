@@ -258,6 +258,8 @@ en una red de forma razonablemente responsable:
 ## Licencia
 
 MIT — ver [LICENSE](LICENSE).
-por Jose Miguel Pastor Calabrese Aponte
-Sientete libre de usar este proyecto y cualquier modificacion o mejora peudes hacerla y con gusto compartila para seguir apoyando el uso
+
+por Jose Miguel Pastor Calabrese Aponte.
+
+Sientete libre de usar este proyecto y cualquier modificacion o mejora puedes hacerla y con gusto compartila para seguir apoyando el uso
 de la electronica y la programacion a mas personas.
