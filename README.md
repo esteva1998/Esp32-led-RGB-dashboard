@@ -9,6 +9,9 @@ y administración remota, todo con autenticación por sesión.
 > Proyecto hecho para aprender el ecosistema de ESP-IDF y C++ moderno en
 > microcontroladores, sin depender de las abstracciones de Arduino.
 
+![Pantalla de inicio de sesión](screenshots/login.jpg)
+![Dashboard principal](screenshots/dashboard-principal.jpg)
+
 ## Índice
 
 - [Características](#características)
